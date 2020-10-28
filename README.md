@@ -1,1 +1,1 @@
-# face-generations-gan
+# face-generation-gan-keras
